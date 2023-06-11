@@ -113,5 +113,4 @@ Swarm plots
 ![visualization (3)](https://github.com/viv3k19/breast_Cancer_Classification-using-Python-ML/assets/82309435/e214392a-5f93-466f-8892-6670fe0c2bfc)
 
 # Project Creator
-* Vivek Malam
-
+* Vivek Malam - Feel free to contact me at viv3k.19@gmail.com for any questions or feedback.
